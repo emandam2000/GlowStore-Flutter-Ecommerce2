@@ -14,14 +14,10 @@ A modern and stylish mobile application for beauty products, built with **Flutte
 * **Framework:** Flutter (Null Safety)
 * **Architecture:** Clean UI/Logic separation.
 * **Images:** Efficiently loaded via Network URLs.
-
-
-
-
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/emandam2000/GlowStore-Flutter-Ecommerce2/main/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9%20%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9.jpeg" width="250" />
-  <img src="https://raw.githubusercontent.com/emandam2000/GlowStore-Flutter-Ecommerce2/main/%D8%B5%D9%81%D8%AD%D8%A9%20%D8%A9%20%D8%B9%D8%B1%D8%B6%20%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%20%D9%88%D9%88%D8%B5%D9%81%20%D9%84%D9%87.jpeg" width="250" />
-  <img src="https://raw.githubusercontent.com/emandam2000/GlowStore-Flutter-Ecommerce2/main/%D8%B5%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B3%D9%84%D8%A9.jpeg" width="250" />
+  <img src="https://i.postimg.cc/N5GBDW3f/alsfht-alrysyt.jpg" width="250" />
+  <img src="https://i.postimg.cc/bs68BmPj/sfht-rd-almntj-wwsf-lh.jpg" width="250" />
+  <img src="https://i.postimg.cc/6y6tcDkK/swrt-alslt.jpg" width="250" />
 </p>
