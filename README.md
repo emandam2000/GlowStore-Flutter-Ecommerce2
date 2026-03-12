@@ -1,23 +1,20 @@
-# 💄 GlowStore - Cosmetics E-commerce App
+# 🛍️ GlowStore - Cosmetics E-commerce App
 
-A modern and stylish mobile application for beauty products, built with **Flutter**.
+A modern, high-performance mobile application for beauty and cosmetic products, built with **Flutter** and **Dart**. This project demonstrates a clean UI/UX design and efficient state management.
 
-## ✨ Features
-* 🛍️ **Dynamic Product Catalog:** Browse products with high-quality images (Network Images).
-* 📂 **Category Navigation:** Smooth transition between Makeup, Skin Care, and Hair products.
-* 🛒 **Shopping Cart System:** * Add products to cart.
-  * Increase/Decrease quantities.
-  * Remove items with a single click.
-* 💰 **Auto-Calculation:** Real-time total price updates in the cart.
+## 🚀 Key Features
+* **Elegant Product Catalog:** Dynamic display of beauty products with category filtering.
+* **Intuitive User Experience:** Smooth navigation and transitions.
+* **Advanced Shopping Cart:** Full cart functionality with real-time price calculation.
 
-## 🚀 Technical Highlights
-* **Framework:** Flutter (Null Safety)
-* **Architecture:** Clean UI/Logic separation.
-* **Images:** Efficiently loaded via Network URLs.
+## 🛠️ Technical Stack
+* **Framework:** Flutter
+* **Language:** Dart
+
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://i.postimg.cc/N5GBDW3f/alsfht-alrysyt.jpg" width="280" />
-  <img src="https://i.postimg.cc/bs68BmPj/sfht-rd-almntj-wwsf-lh.jpg" width="280" />
-  <img src="https://i.postimg.cc/6y6tcDkK/swrt-alslt.jpg" width="280" />
+  <img src="https://i.postimg.cc/N5GBDW3f/alsfht-alrysyt.jpg" width="250" />
+  <img src="https://i.postimg.cc/bs68BmPj/sfht-rd-almntj-wwsf-lh.jpg" width="250" />
+  <img src="https://i.postimg.cc/6y6tcDkK/swrt-alslt.jpg" width="250" />
 </p>
