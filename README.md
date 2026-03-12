@@ -22,7 +22,7 @@ A modern and stylish mobile application for beauty products, built with **Flutte
 
 
 <p align="center">
-  <img src="https://github.com/emandam2000/GlowStore-Flutter-Ecommerce2/raw/main/home.jpeg" width="250" />
-  <img src="https://github.com/emandam2000/GlowStore-Flutter-Ecommerce2/raw/main/cart.jpeg" width="250" />
-  <img src="https://github.com/emandam2000/GlowStore-Flutter-Ecommerce2/raw/main/details.jpeg" width="250" />
+  <img src="https://raw.githubusercontent.com/emandam2000/GlowStore-Flutter-Ecommerce2/main/home.jpeg" width="250" />
+  <img src="https://raw.githubusercontent.com/emandam2000/GlowStore-Flutter-Ecommerce2/main/cart.jpeg" width="250" />
+  <img src="https://raw.githubusercontent.com/emandam2000/GlowStore-Flutter-Ecommerce2/main/details.jpeg" width="250" />
 </p>
