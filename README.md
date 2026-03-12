@@ -19,16 +19,8 @@ A modern and stylish mobile application for beauty products, built with **Flutte
 
 
 ## 📸 Screenshots
-
-
 <p align="center">
   <img src="https://i.postimg.cc/6y6tcDkK/swrt-alslt.jpg" width="250" title="Home Screen" />
   <img src="https://i.postimg.cc/bs68BmPj/sfht-rd-almntj-wwsf-lh.jpg" width="250" title="Product Details" />
   <img src="https://i.postimg.cc/N5GBDW3f/alsfht-alrysyt.jpg" width="250" title="Cart Screen" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/emandam2000/GlowStore-Flutter-Ecommerce2/main/home.jpeg" width="250" />
-  <img src="https://raw.githubusercontent.com/emandam2000/GlowStore-Flutter-Ecommerce2/main/cart.jpeg" width="250" />
-  <img src="https://raw.githubusercontent.com/emandam2000/GlowStore-Flutter-Ecommerce2/main/details.jpeg" width="250" />
 </p>
