@@ -20,8 +20,9 @@ A modern and stylish mobile application for beauty products, built with **Flutte
 
 ## 📸 Screenshots
 
+
 <p align="center">
-  <img src="home.jpeg" width="250" />
-  <img src="cart.jpeg" width="250" />
-  <img src="details.jpeg" width="250" />
+  <img src="home.jpeg?raw=true" width="250" />
+  <img src="cart.jpeg?raw=true" width="250" />
+  <img src="details.jpeg?raw=true" width="250" />
 </p>
