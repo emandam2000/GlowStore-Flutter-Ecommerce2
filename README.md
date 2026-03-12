@@ -17,7 +17,7 @@ A modern and stylish mobile application for beauty products, built with **Flutte
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://i.postimg.cc/N5GBDW3f/alsfht-alrysyt.jpg" width="250" />
-  <img src="https://i.postimg.cc/bs68BmPj/sfht-rd-almntj-wwsf-lh.jpg" width="250" />
-  <img src="https://i.postimg.cc/6y6tcDkK/swrt-alslt.jpg" width="250" />
+  <img src="https://i.postimg.cc/N5GBDW3f/alsfht-alrysyt.jpg" width="280" />
+  <img src="https://i.postimg.cc/bs68BmPj/sfht-rd-almntj-wwsf-lh.jpg" width="280" />
+  <img src="https://i.postimg.cc/6y6tcDkK/swrt-alslt.jpg" width="280" />
 </p>
